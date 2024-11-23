@@ -1,6 +1,6 @@
 import unittest
 
-def solution(n):
+def solution(n): # Time: O(n) | Space: O(1)
     if n == 0:
         return 1
     if n == 1:
